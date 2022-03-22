@@ -1,5 +1,5 @@
 #react3fiber-GLSL-template
 
-GLSL Shader template to use with react3fiber.
+r3f example of using texture with GLSL shader.
 
 Created with CodeSandbox
